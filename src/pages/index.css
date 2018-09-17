@@ -1,0 +1,15 @@
+
+.kyangCar{
+  text-align: center;
+  height: 300px;
+  line-height: 300px;
+  background: #364d79;
+  overflow: hidden;
+}
+.searchRow{
+  line-height: 80px;
+  height: 80px;
+}
+.homeList{
+margin:   0 20vh 20px 20vh;
+}
